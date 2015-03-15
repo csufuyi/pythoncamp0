@@ -1,6 +1,6 @@
 # SUMMARY
 
-* [缘起](/source/begin.md)
+* [缘起于初春](/source/begin.md)
 * [part1](./source/part1/introduction)
   * [part1.1](./source/part1/1.md)
 * [part2](./source/part2/introduction)
