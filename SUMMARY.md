@@ -8,7 +8,7 @@
   * [test](./source/part1/4.md)
 * [OMOOC课程总结](./source/part2/introduction)
   * [](./source/part2/1.md)
-  * [](./source/part2/2.md)
+  * [画图板作业](./source/part2/2.md)
   * [](./source/part2/3.md)
   * [](./source/part2/4.md)
 * [如何提问](./source/part2/introduction)
