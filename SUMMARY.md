@@ -2,7 +2,7 @@
 
 * [序言](/source/begin.md)
 * [程序员思维修炼](./source/part1/introduction)
-  * [内容](./source/part1/1.md)
+  * [实用的思考与学习](./source/part1/1.md)
   * [内容](./source/part1/2.md)
   * [test](./source/part1/3.md)
   * [test](./source/part1/4.md)
