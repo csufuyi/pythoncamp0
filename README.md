@@ -16,5 +16,5 @@
 ## emacs org-mode gtd
 
 ##  maillist使用
-
+强调下这个的使用，gmail最后伟大的发明
 
