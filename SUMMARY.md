@@ -19,6 +19,6 @@
 * [python总结](./source/part4/introduction)
   * [智慧的理解](./source/part4/1.md)
   * [技能地图](./source/part4/2.md)
-  * [地图和放大镜](./source/part2/3.md)
+  * [地图和放大镜](./source/part4/3.md)
   * [程序启动原理](./source/part4/4.md)
 * [结尾](./source/end.md)
