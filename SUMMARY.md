@@ -13,7 +13,7 @@
   * [画图板作业点彩分享版](./source/part2/4.md)
 * [产品总结](./source/part3/introduction)
   * [选题 to do](./source/part3/1.md)
-  * [架构 to do](./source/part3/2.md)
+  * [Niubility](./source/part2/2.md)
   * [sae微信后台搭建](./source/part3/3.md)
   * [api接入总结](./source/part3/4.md)
 * [python总结](./source/part4/introduction)
