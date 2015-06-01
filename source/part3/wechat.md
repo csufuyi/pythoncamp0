@@ -1,3 +1,55 @@
+么开发一个自己的微信公众号后台？
+完成请求，应答的逻辑
+
+1
+我有了一个微信公众号后台，能推送图文消息给用户。
+如何完成自定义响应用户消息？
+
+
+微信公众平台开发接口介绍
+
+http://mp.weixin.qq.com/wiki/home/index.html
+
+
+微信公众号的后台将用户在公众号内的留言转发到某个指定的URI。
+指定的URI能完成接收微信的请求，返回消息。
+
+2
+如何在一个URI上提供消息应答功能？
+部署在SAE上的一个python应用简单几行代码就能提供web服务
+
+sae python应用文档
+http://sae.sina.com.cn/doc/python/index.html
+
+如果选用bottle这样的一个web框架，简单代码就可以完成一个请求应答的过程。
+
+```
+from bottle import Bottle, run
+
+import sae
+
+app = Bottle()
+
+@app.route('/')
+def hello():
+    return "Hello, world! - Bottle"
+
+application = sae.create_wsgi_app(app)
+```
+
+3
+
+理解基本流程之后，选择合适的框架来复用，支持微信消息回复的流程，
+先参考网上的教程，调通基本的请求应答，详细可见github的提交日志。
+
+在github上选择合适的框架
+从自己写应答代码构造返回xml等。
+到利用wechat-sdk
+到最后选用werobot框架
+
+
+
+
 ## 基于bottle和SAE的微信公众号后台搭建
 
 ### 功能
