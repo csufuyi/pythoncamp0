@@ -7,7 +7,7 @@
 
 ### 消息流图
 
-![系统流程图](http://imglf2.ph.126.net/sukFSpjC-AOsSbaVCgpdnw==/6619119372840609329.png)
+![系统流程图](./6_system.png）
 
 
 
