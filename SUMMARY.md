@@ -14,7 +14,7 @@
 * [Niubility总结](./source/part3/introduction.md)
   * [wechat教程](./source/part3/wechat.md)
   * [登录流程设计](./source/part3/login.md)
-  * [web后台设计](./source/part2/mount.md)
+  * [web后台设计](./source/part3/mount.md)
   * [douban api接入](./source/part3/douban.md)
   * [模块选择方法](./source/part3/selectmodule.md)
 * [python总结](./source/part4/introduction.md)
