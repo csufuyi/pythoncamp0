@@ -7,7 +7,9 @@
 
 ### 消息流图
 
-![6_system.png](http://upload-images.jianshu.io/upload_images/20396-6610ced6bdd604c0.png)
+![系统流程图](http://imglf2.ph.126.net/sukFSpjC-AOsSbaVCgpdnw==/6619119372840609329.png)
+
+
 
 ### 微信公众号
 
