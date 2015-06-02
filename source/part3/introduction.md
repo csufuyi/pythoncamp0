@@ -5,6 +5,10 @@
 一个网站，管理用户，抓取数据
 利用了第三方API和公开数据
 
+### 消息流图
+
+![6_system.png](http://upload-images.jianshu.io/upload_images/20396-6610ced6bdd604c0.png)
+
 ### 微信公众号
 
 前端：
