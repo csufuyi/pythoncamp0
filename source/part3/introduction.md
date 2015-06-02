@@ -7,8 +7,7 @@
 
 ### 消息流图
 
-![系统流程图](./6_system.png）
-
+![](http://7xjfyz.com1.z0.glb.clouddn.com/6_system.png)
 
 
 ### 微信公众号
