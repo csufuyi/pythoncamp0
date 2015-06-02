@@ -11,7 +11,7 @@
   * [画图板作业](./source/part2/2.md)
   * [猜数字作业ai版本](./source/part2/3.md)
   * [画图板作业点彩分享版](./source/part2/4.md)
-* [Niubility总结](./source/part3/introduction.md)
+* [Niubility概要设计](./source/part3/introduction.md)
   * [wechat教程](./source/part3/1.md)
   * [登录流程设计](./source/part3/2.md)
   * [web后台设计](./source/part3/3.md)
