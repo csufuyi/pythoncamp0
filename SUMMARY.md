@@ -1,6 +1,9 @@
 # SUMMARY
 
 * [序言](./source/begin.md)
+* [环境准备](./source/envrion.md)
+  - [markdown to do](./source/markdown.md)
+  - [shell入门 to do](./source/shell.md)
 * [python总结](./source/part4/introduction.md)
   - [程序启动原理](./source/part4/4.md)
   - [技能地图](./source/part4/2.md)
