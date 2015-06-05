@@ -15,7 +15,7 @@
   - [web后台设计](./source/part3/3.md)
   - [douban api接入](./source/part3/4.md)
   - [模块选择方法](./source/part3/5.md)
-  - [运营问题总结] (./source/part3/operate.md)
+  - [运营问题总结](./source/part3/operate.md)
 * [程序员思维修炼](./source/part1/introduction.md)
   - [实用的思考与学习](./source/part1/1.md)
   - [智慧的理解](./source/part4/1.md)
