@@ -1,5 +1,7 @@
 ## Niubility概要设计
 
+
+
 我们做了什么：
 一个微信公众号，提供查书方面的服务  
 一个网站，管理用户，抓取数据
@@ -55,6 +57,9 @@ kvdb存储网络管理员的登录信息，目前以豆瓣uid为key，存储相�
 TED网页抓取
 
 - bs4网页的抓取
+
+## 项目文档链接
+https://github.com/csufuyi/niubility/wiki
 
 
 ## 参考问题
